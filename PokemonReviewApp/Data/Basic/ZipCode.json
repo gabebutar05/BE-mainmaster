@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "CityId": 34,
+    "ZipCode": "10110"
+  },
+  {
+    "Id": 2,
+    "CityId": 34,
+    "ZipCode": "10120"
+  },
+  {
+    "Id": 3,
+    "CityId": 34,
+    "ZipCode": "10150"
+  },
+  {
+    "Id": 4,
+    "CityId": 34,
+    "ZipCode": "10160"
+  },
+  {
+    "Id": 5,
+    "CityId": 34,
+    "ZipCode": "10130"
+  },
+  {
+    "Id": 6,
+    "CityId": 34,
+    "ZipCode": "10210"
+  },
+  {
+    "Id": 7,
+    "CityId": 34,
+    "ZipCode": "10220"
+  },
+  {
+    "Id": 8,
+    "CityId": 34,
+    "ZipCode": "10230"
+  },
+  {
+    "Id": 9,
+    "CityId": 34,
+    "ZipCode": "10240"
+  },
+  {
+    "Id": 10,
+    "CityId": 34,
+    "ZipCode": "10250"
+  },
+  {
+    "Id": 11,
+    "CityId": 34,
+    "ZipCode": "10260"
+  },
+  {
+    "Id": 12,
+    "CityId": 34,
+    "ZipCode": "10260"
+  }
+]

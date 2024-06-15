@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "Name": "Saham"
+  },
+  {
+    "Id": 2,
+    "Name": "Obligasi Pemerintah"
+  },
+  {
+    "Id": 3,
+    "Name": "Obligasi Perusahaan"
+  },
+  {
+    "Id": 4,
+    "Name": "Reksa Dana Saham"
+  },
+  {
+    "Id": 5,
+    "Name": "Reksa Dana Pendapatan Tetap"
+  },
+  {
+    "Id": 6,
+    "Name": "Reksa Dana Campuran"
+  },
+  {
+    "Id": 7,
+    "Name": "Emas Batangan"
+  },
+  {
+    "Id": 8,
+    "Name": "Perak Batangan"
+  },
+  {
+    "Id": 9,
+    "Name": "Logam Mulia"
+  },
+  {
+    "Id": 10,
+    "Name": "Properti Komersial"
+  },
+  {
+    "Id": 11,
+    "Name": "Properti Residensial"
+  },
+  {
+    "Id": 12,
+    "Name": "Investasi Infrastruktur"
+  },
+  {
+    "Id": 13,
+    "Name": "Investasi Energi Terbarukan"
+  },
+  {
+    "Id": 14,
+    "Name": "Investasi Teknologi"
+  },
+  {
+    "Id": 15,
+    "Name": "Investasi Konsumen"
+  },
+  {
+    "Id": 16,
+    "Name": "Investasi Kesehatan"
+  },
+  {
+    "Id": 17,
+    "Name": "Investasi Pendidikan"
+  },
+  {
+    "Id": 18,
+    "Name": "Investasi Pertanian"
+  },
+  {
+    "Id": 19,
+    "Name": "Investasi Transportasi"
+  },
+  {
+    "Id": 20,
+    "Name": "Investasi Telekomunikasi"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "Id": 1,
+    "CityCode": "1171",
+    "CityName": "Banda Aceh"
+  },
+  {
+    "Id": 2,
+    "CityCode": "1172",
+    "CityName": "Sabang"
+  },
+  {
+    "Id": 3,
+    "CityCode": "1173",
+    "CityName": "Langsa"
+  },
+  {
+    "Id": 4,
+    "CityCode": "1174",
+    "CityName": "Lhokseumawe"
+  },
+  {
+    "Id": 5,
+    "CityCode": "1175",
+    "CityName": "Subulussalam"
+  },
+  {
+    "Id": 6,
+    "CityCode": "1271",
+    "CityName": "Medan"
+  },
+  {
+    "Id": 7,
+    "CityCode": "1272",
+    "CityName": "Binjai"
+  },
+  {
+    "Id": 8,
+    "CityCode": "1273",
+    "CityName": "Tebing Tinggi"
+  },
+  {
+    "Id": 9,
+    "CityCode": "1274",
+    "CityName": "Pematangsiantar"
+  },
+  {
+    "Id": 10,
+    "CityCode": "1275",
+    "CityName": "Tanjungbalai"
+  },
+  {
+    "Id": 11,
+    "CityCode": "1276",
+    "CityName": "Sibolga"
+  },
+  {
+    "Id": 12,
+    "CityCode": "1277",
+    "CityName": "Padangsidimpuan"
+  },
+  {
+    "Id": 13,
+    "CityCode": "1278",
+    "CityName": "Gunungsitoli"
+  },
+  {
+    "Id": 14,
+    "CityCode": "1371",
+    "CityName": "Padang"
+  },
+  {
+    "Id": 15,
+    "CityCode": "1372",
+    "CityName": "Bukittinggi"
+  },
+  {
+    "Id": 16,
+    "CityCode": "1373",
+    "CityName": "Padangpanjang"
+  },
+  {
+    "Id": 17,
+    "CityCode": "1374",
+    "CityName": "Payakumbuh"
+  },
+  {
+    "Id": 18,
+    "CityCode": "1375",
+    "CityName": "Solok"
+  },
+  {
+    "Id": 19,
+    "CityCode": "1376",
+    "CityName": "Sawahlunto"
+  },
+  {
+    "Id": 20,
+    "CityCode": "1377",
+    "CityName": "Pariaman"
+  },
+  {
+    "Id": 21,
+    "CityCode": "1471",
+    "CityName": "Pekanbaru"
+  },
+  {
+    "Id": 22,
+    "CityCode": "1472",
+    "CityName": "Dumai"
+  },
+  {
+    "Id": 23,
+    "CityCode": "1571",
+    "CityName": "Jambi"
+  },
+  {
+    "Id": 24,
+    "CityCode": "1671",
+    "CityName": "Palembang"
+  },
+  {
+    "Id": 25,
+    "CityCode": "1672",
+    "CityName": "Pagar Alam"
+  },
+  {
+    "Id": 26,
+    "CityCode": "1673",
+    "CityName": "Lubuklinggau"
+  },
+  {
+    "Id": 27,
+    "CityCode": "1674",
+    "CityName": "Prabumulih"
+  },
+  {
+    "Id": 28,
+    "CityCode": "1771",
+    "CityName": "Bengkulu"
+  },
+  {
+    "Id": 29,
+    "CityCode": "1871",
+    "CityName": "Bandar Lampung"
+  },
+  {
+    "Id": 30,
+    "CityCode": "1872",
+    "CityName": "Metro"
+  },
+  {
+    "Id": 31,
+    "CityCode": "1971",
+    "CityName": "Pangkalpinang"
+  },
+  {
+    "Id": 32,
+    "CityCode": "2171",
+    "CityName": "Tanjung Pinang"
+  },
+  {
+    "Id": 33,
+    "CityCode": "2172",
+    "CityName": "Batam"
+  },
+  {
+    "Id": 34,
+    "CityCode": "3171",
+    "CityName": "Jakarta Pusat"
+  },
+  {
+    "Id": 35,
+    "CityCode": "3172",
+    "CityName": "Jakarta Utara"
+  },
+  {
+    "Id": 36,
+    "CityCode": "3173",
+    "CityName": "Jakarta Barat"
+  },
+  {
+    "Id": 37,
+    "CityCode": "3174",
+    "CityName": "Jakarta Selatan"
+  },
+  {
+    "Id": 38,
+    "CityCode": "3175",
+    "CityName": "Jakarta Timur"
+  },
+  {
+    "Id": 39,
+    "CityCode": "3273",
+    "CityName": "Bandung"
+  },
+  {
+    "Id": 40,
+    "CityCode": "3271",
+    "CityName": "Bogor"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "Id": 1,
+    "Name": "Tambah Saham",
+    "ModuleId": 1,
+    "Add": true,
+    "Update": true,
+    "Delete": true
+  },
+  {
+    "Id": 2,
+    "Name": "Hapus Bisnis A",
+    "ModuleId": 1,
+    "Add": true,
+    "Update": false,
+    "Delete": true
+  },
+  {
+    "Id": 3,
+    "Name": "Update Bisnis B",
+    "ModuleId": 1,
+    "Add": false,
+    "Update": true,
+    "Delete": false
+  },
+  {
+    "Id": 4,
+    "Name": "Tambah Obligasi Pemerintah",
+    "ModuleId": 2,
+    "Add": true,
+    "Update": true,
+    "Delete": false
+  },
+  {
+    "Id": 5,
+    "Name": "Hapus Obligasi Perusahaan",
+    "ModuleId": 2,
+    "Add": false,
+    "Update": false,
+    "Delete": true
+  },
+  {
+    "Id": 6,
+    "Name": "Tambah Reksa Dana Saham",
+    "ModuleId": 3,
+    "Add": true,
+    "Update": true,
+    "Delete": true
+  },
+  {
+    "Id": 7,
+    "Name": "Update Reksa Dana Pendapatan Tetap",
+    "ModuleId": 3,
+    "Add": false,
+    "Update": true,
+    "Delete": false
+  },
+  {
+    "Id": 8,
+    "Name": "Hapus Reksa Dana Campuran",
+    "ModuleId": 3,
+    "Add": false,
+    "Update": false,
+    "Delete": true
+  },
+  {
+    "Id": 9,
+    "Name": "Tambah Emas Batangan",
+    "ModuleId": 4,
+    "Add": true,
+    "Update": true,
+    "Delete": true
+  },
+  {
+    "Id": 10,
+    "Name": "Hapus Perak Batangan",
+    "ModuleId": 4,
+    "Add": false,
+    "Update": false,
+    "Delete": true
+  },
+  {
+    "Id": 11,
+    "Name": "Tambah Logam Mulia",
+    "ModuleId": 4,
+    "Add": true,
+    "Update": true,
+    "Delete": true
+  },
+  {
+    "Id": 12,
+    "Name": "Update Properti Komersial",
+    "ModuleId": 5,
+    "Add": false,
+    "Update": true,
+    "Delete": false
+  },
+  {
+    "Id": 13,
+    "Name": "Hapus Properti Residensial",
+    "ModuleId": 5,
+    "Add": false,
+    "Update": false,
+    "Delete": true
+  },
+  {
+    "Id": 14,
+    "Name": "Tambah Investasi Infrastruktur",
+    "ModuleId": 6,
+    "Add": true,
+    "Update": true,
+    "Delete": true
+  },
+  {
+    "Id": 15,
+    "Name": "Update Investasi Energi Terbarukan",
+    "ModuleId": 6,
+    "Add": false,
+    "Update": true,
+    "Delete": false
+  },
+  {
+    "Id": 16,
+    "Name": "Hapus Investasi Teknologi",
+    "ModuleId": 6,
+    "Add": false,
+    "Update": false,
+    "Delete": true
+  },
+  {
+    "Id": 17,
+    "Name": "Tambah Investasi Konsumen",
+    "ModuleId": 7,
+    "Add": true,
+    "Update": true,
+    "Delete": true
+  },
+  {
+    "Id": 18,
+    "Name": "Update Investasi Kesehatan",
+    "ModuleId": 7,
+    "Add": false,
+    "Update": true,
+    "Delete": false
+  },
+  {
+    "Id": 19,
+    "Name": "Hapus Investasi Pendidikan",
+    "ModuleId": 7,
+    "Add": false,
+    "Update": false,
+    "Delete": true
+  },
+  {
+    "Id": 20,
+    "Name": "Tambah Investasi Pertanian",
+    "ModuleId": 8,
+    "Add": true,
+    "Update": true,
+    "Delete": true
+  }
+]
